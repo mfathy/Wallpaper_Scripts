@@ -1,0 +1,3 @@
+find . -type f -name "*.png" > png.txt
+find . -type f -name “*.jpg” > jpg.txt
+find . -type f -name “*.jpeg” > jpeg.txt
